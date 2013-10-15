@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="image_types">
+        <item></item>
+        <item>face</item>
+        <item>clipart</item>
+        <item>lineart</item>
+        <item>news</item>
+        <item>photo</item>
+    </string-array>   
+</resources>
+
+

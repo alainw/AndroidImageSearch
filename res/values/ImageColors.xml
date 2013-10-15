@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="image_colors">
+        <item></item>        
+        <item>yellow</item>
+        <item>green</item>
+	    <item>teal</item>
+	    <item>blue</item>
+	    <item>purple</item>
+	    <item>pink</item>
+	    <item>white</item>
+	    <item>gray</item>
+	    <item>black</item>
+	    <item>brown</item>        
+    </string-array>   
+</resources>
+
